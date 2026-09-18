@@ -3,7 +3,6 @@ layout: post
 title: "“Rulette”, but it’s Google Slides"
 date: 2026-09-13
 description: "The rule game where the rule changes every game."
-published: true
 tags:
   - game
   - programming
