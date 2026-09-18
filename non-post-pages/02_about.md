@@ -51,5 +51,4 @@ appear-in-top-right: true
 
 
 <link rel="stylesheet" href="{{ '/assets/non-post-pages/about/style.css' | relative_url }}">
-<script src="{{ '/assets/non-post-pages/about/index.js' | relative_url }}"></script>
 
